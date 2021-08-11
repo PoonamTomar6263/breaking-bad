@@ -1,0 +1,33 @@
+.charac{
+    border: 2px solid black;
+    margin: 20px;
+ }
+ .image{
+    width: 200px;
+    height: 250px;
+   padding-top: 25px;
+ }
+ .card{
+   /* border: 1px solid yellow; */
+   border: 2px solid rgb(252, 248, 242);
+   background-color: white;
+   width: 250px;
+   height: 325px;
+   text-align: center;
+   
+    
+    /* display: inline; */
+ 
+    /* border: 2px solid red; */
+ }
+ .button{
+margin-top: 5px;
+padding: 8px;
+border-radius: 10px;
+color:  black;
+border: 1px solid black;
+font-weight: bold;
+ }
+ .button:hover{
+    background-color: grey;
+ }

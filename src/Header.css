@@ -1,0 +1,21 @@
+.head{
+  background-color: rgb(7, 17, 109);
+  height: 50px;
+  padding: 10px;
+  text-align: center;
+}
+.input{
+width: 50%;
+padding: 10px;
+margin: auto;
+border-radius: 20px;
+}
+.header_logo{
+  height: 100px;
+  margin-top: 10px;
+  background-image: none;
+}
+.imgtwo{
+  height: 100px;
+  background-image: none;
+}

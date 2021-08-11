@@ -1,0 +1,29 @@
+.items{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+    margin:50px;
+}
+.each{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.paginationBtn{
+   
+    width: 80%;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.paginationBtn a{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: blue;
+    cursor: pointer;
+}
